@@ -13,7 +13,7 @@
 
 3. 训练`sh train.sh`
 
-4. 预测：`python predict.py
+4. 预测：`python predict.py`
    ```python
    from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
    
